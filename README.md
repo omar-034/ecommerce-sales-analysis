@@ -11,10 +11,10 @@ Analyse exploratoire des données de ventes d'une boutique e-commerce en ligne. 
 - Fournir des insights pour optimiser les ventes
 
 ## 📁 Structure du Projets
-├── data/               # Données brutes et nettoyées
-├── notebooks/          # Jupyter notebooks
-├── images/            # Visualisations
-└── requirements.txt   # Dépendances Python
+- ├── data/               # Données brutes et nettoyées
+- ├── notebooks/          # Jupyter notebooks
+- ├── images/            # Visualisations
+- └── requirements.txt   # Dépendances Python
 ## 🛠️ Technologies Utilisées
 - **Python 3.9+**
 - **Pandas** - Manipulation des données
