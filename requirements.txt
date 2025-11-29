@@ -9,7 +9,7 @@ plotly==5.18.0
 
 # Jupyter
 jupyter==1.0.0
-notebook==7.0.6
+notebook==7.2.2
 
 # Utilities
 openpyxl==3.1.2
